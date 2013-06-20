@@ -1,7 +1,8 @@
 改造版TZTester
 
-TZTester.jarの使い方は知ってるものとして
 naoya_t専用の改造版です
+
+TZTester.jarの使い方は知ってるものとします
 
 ~/topcoder/plugins/ にプラグインを置いてることを前提にしています
 
